@@ -31,9 +31,9 @@ class sendMail extends Mailable
      */
     public function build()
     {
+        $firstname = $this->data['firstname'];
         $email = $this->data['email'];
-        $subject = $this->data['subject'];
-        return $this->from($address = $email, $name = $email)->subject("NoorAlamana:" ." " . $subject)->
+        return $this->from($address = $email, $name = $email)->subject("LCC:" ." " . $firstname)->
         view('standardMessage')->with('data',$this->data);
     }
 }

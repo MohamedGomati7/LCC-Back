@@ -1,7 +1,9 @@
-<p>Hi, This message wes send from LCC website (contactUs Form)</p>
+<p>Hi, This message was send from LCC website (contactUs Form)</p>
 <p>sender Email  :  {{ $data['email']}}
-<p>The subject is :  {{ $data['subject']}}</p>
-<p>{{ $data['message'] }}</p>
+<p>The Name is :  {{ $data['firstname']}}</p>
+<p>The Message is :
+<br>
+{{ $data['message'] }}</p>
 <br>
 <br>
 <br>

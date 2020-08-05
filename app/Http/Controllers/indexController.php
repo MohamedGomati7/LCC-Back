@@ -13,8 +13,9 @@ class indexController extends Controller
     }
     public function send(Request $request){
         request()->validate($this->rules());
-        $data = array('email'    => $request->email,
-                      'subject'  => $request->subject,
+        $data = array('firstname'  => $request->firstname,
+                      'email'    => $request->email,
+                      // 'subject'  => $request->subject,
                       'message'  => $request->message);
   
         Mail::to('mohamedgomati99@gmail.com')->send(new SendMail($data));
@@ -23,8 +24,9 @@ class indexController extends Controller
   
       public function rules(){
         return [
+            'firstname' => 'required',
             'email' => 'required|email',
-            'subject' => 'required',
+            // 'subject' => 'required',
             'message' => 'required'
         ];
       }

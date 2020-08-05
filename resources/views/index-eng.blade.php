@@ -765,8 +765,9 @@ We also aim to build and establish a long-term relationship with our customers.	
                 <div class="section-heading">
 
                 </div>
-                <form class="primary-form-2 mt-15" role="form" method="post" id="reused_form" class="php-email-form">
-                    <div class="row">
+                <form class="primary-form-2 mt-15" role="form" action="{{ route('sendMessage')}}" method="post" id="reused_form" class="php-email-form">
+                    @csrf
+					<div class="row">
                         <div class="col-sm-6 col-12" >
                             <label for="name"> </label>
                             <input type="text" class="form-control" id="firstname" name="firstname" maxlength="50"  placeholder=" name*">
