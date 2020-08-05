@@ -36,19 +36,25 @@
 	<!-- Main Styles -->
 	<link rel="stylesheet" type="text/css" href="css/styles-3.css" id="main_styles">
 
-	<style>
+<style>
     
-        @font-face {
-          font-family: myFirstFont;
-          src: url(Tajawal-Regular.ttf);
-       }
-       
-       div , p , h1 , h2 , h3 , h4 , h5 , h6 , b ,a {
-          font-family: myFirstFont;
-       }
-       </style>
-
-
+    /* tajawal-regular - latin_arabic */
+@font-face {
+  font-family: 'Tajawal';
+  font-style: normal;
+  font-weight: 400;
+  src: url('tajawal-v3-latin_arabic-regular.eot'); /* IE9 Compat Modes */
+  src: local('Tajawal'), local('Tajawal-Regular'),
+       url('tajawal-v3-latin_arabic-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('tajawal-v3-latin_arabic-regular.woff2') format('woff2'), /* Super Modern Browsers */
+       url('tajawal-v3-latin_arabic-regular.woff') format('woff'), /* Modern Browsers */
+       url('fonts/tajawal-v3-latin_arabic-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+       url('fonts/tajawal-v3-latin_arabic-regular.svg#Tajawal') format('svg'); /* Legacy iOS */
+}
+div , p , h1 , h2 , h3 , h4 , h5 , h6 , b ,a {
+      font-family: 'Tajawal';
+   }
+   </style>
 </head>
 <body>
 
@@ -100,9 +106,9 @@
 				<li><a href="#">حول</a>
 					 
 				</li> -->
-				<li><a href="index.html"><b>عربي </b></a>
+				<li><a href="/"><b>عربي </b></a>
 
-              	<li><a href="#home"><b>Home </b></a>
+              	<li><a href="/en"><b>Home </b></a>
                 <li><a href="#about"><b>  About </b></a>
 				<li><a href="#services"><B>Services </B></a>
 
