@@ -42,7 +42,7 @@
     /* tajawal-regular - latin_arabic */
 @font-face {
   font-family: 'Tajawal';
-  font-style: normal;
+  font-style:normal;
   font-weight: 400;
   src: url('tajawal-v3-latin_arabic-regular.eot'); /* IE9 Compat Modes */
   src: local('Tajawal'), local('Tajawal-Regular'),
@@ -55,6 +55,7 @@
 div , p , h1 , h2 , h3 , h4 , h5 , h6 , b ,a {
       font-family: 'Tajawal';
    }
+
    </style>
 
 </head>
@@ -752,6 +753,7 @@ Money management الألمانيـــة وتعتـبر هـــذه الشرك
 </div>
 <!-- Action Box END -->
 <!--Features Section START-->
+<div id="contact">
 <div class="section-block primary-bg" >
     <div class="background-shape bs-right"></div>
 
@@ -821,6 +823,7 @@ Money management الألمانيـــة وتعتـبر هـــذه الشرك
             </div>
         </div>
     </div>
+</div>
 </div>
 <!--Features Section END-->
 

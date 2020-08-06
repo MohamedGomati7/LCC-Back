@@ -54,6 +54,9 @@
 div , p , h1 , h2 , h3 , h4 , h5 , h6 , b ,a {
       font-family: 'Tajawal';
    }
+   html{
+    scroll-behavior: smooth;
+}
    </style>
 </head>
 <body>
@@ -725,6 +728,7 @@ We also aim to build and establish a long-term relationship with our customers.	
 </div>
 <!-- Action Box END -->
 <!--Features Section START-->
+<div id ="contact">
 <div class="section-block primary-bg" >
     <div class="background-shape bs-left"></div>
 
@@ -794,6 +798,7 @@ We also aim to build and establish a long-term relationship with our customers.	
             
         </div>
     </div>
+</div>
 </div>
 <!--Features Section END-->
 
