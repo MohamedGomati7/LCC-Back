@@ -18,7 +18,7 @@ class indexController extends Controller
                       // 'subject'  => $request->subject,
                       'message'  => $request->message);
   
-        Mail::to('mohamedgomati99@gmail.com')->send(new SendMail($data));
+        Mail::to('info@lcc.com.ly')->send(new SendMail($data));
         return back()->with('success','Thank you for Contacting us!');
       }
   
