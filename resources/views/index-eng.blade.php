@@ -383,7 +383,8 @@ div , p , h1 , h2 , h3 , h4 , h5 , h6 , b ,a {
 					<li style="float: left;"><i class="fas fa-check-circle float-left"></i>North African Bank.</li>
 					<li style="float: left; margin-right: 3.7em;"><i class="fas fa-check-circle float-left"></i>The Saraya Bank.</li>
 					<li style="float: left;"><i class="fas fa-check-circle float-left"></i> Yaqeen Bank.</li>
-				
+					<li style="float: left;"><i class="fas fa-check-circle float-left"></i> Alandaluss Bank.</li>
+
 				
 				</ul>
 				 	
@@ -410,7 +411,7 @@ div , p , h1 , h2 , h3 , h4 , h5 , h6 , b ,a {
         <div class="row mt-20" >
             <div class="col-md-4 col-sm-4 col-12">
                 <div class="features-box-3 text-center">
-                     <p style="color: #fff"> The number of imported machines to Libya has reached nearly 300, both external and internal, deposits and other features. Money exchange, some of which are designed to change foreign currencies. Other This type of machine proved highly efficient and works in all climates.</p>
+                     <p style="color: #fff"> The number of imported machines to Libya has reached more than 500, both external and internal, deposits and other features. Money exchange, some of which are designed to change foreign currencies. Other This type of machine proved highly efficient and works in all climates.</p>
                   
                 </div>
             </div>
@@ -619,6 +620,12 @@ We also aim to build and establish a long-term relationship with our customers.	
 				<br>
 				<h6 style="text-align: center;">Arab Consensus Bank.</h6>
             </div>
+
+			<div class="item">
+				<img src="img/customer9.png" alt="partner-image">
+				<br>
+				<h6 style="text-align: center;"> Alandaluss Bank  </h6>
+            </div>
         </div>
     </div>
 </div>
@@ -748,13 +755,13 @@ We also aim to build and establish a long-term relationship with our customers.	
                 <div class="section-heading text-left" >
                     <h6 class="semi-bold" style="color: aliceblue" >Adress</h6>
                     <ul class="grey-list mt-15 text-left">
-                        <li><i class="fa fa-map-marker-alt"></i> Alnaser Street</li>
+                        <li><i class="fa fa-map-marker-alt"></i> Omar Almoktar Street</li>
                     </ul>
                     <div class="mt-40">
                         <h6 class="semi-bold" style="color: aliceblue" >Phone Numbers</h6>
                         <ul class="grey-list mt-15">
                             <li><i class="fa fa-phone"></i> +218 21 333 0843</li>
-                            <li><i class="fa fa-phone"></i> +218 92 497 4402 </li>
+                            {{-- <li><i class="fa fa-phone"></i> +218 92 497 4402 </li> --}}
                         </ul>
                     </div>
                     <div class="mt-40">
