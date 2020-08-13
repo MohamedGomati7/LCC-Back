@@ -831,7 +831,7 @@ Money management الألمانيـــة وتعتـبر هـــذه الشرك
                     <div class="mt-40">
                         <h6 class="semi-bold" style="color: aliceblue" >ارقام الهاتف</h6>
                         <ul class="grey-list mt-15">
-                            <li><i class="fa fa-phone"></i> +218 21 333 0843</li>
+                            <li><i class="fa fa-phone"></i> +218 91 312 4226</li>
                             {{-- <li><i class="fa fa-phone"></i> +218 92 497 4402 </li> --}}
                         </ul>
                     </div>

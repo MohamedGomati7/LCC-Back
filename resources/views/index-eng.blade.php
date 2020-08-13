@@ -760,7 +760,7 @@ We also aim to build and establish a long-term relationship with our customers.	
                     <div class="mt-40">
                         <h6 class="semi-bold" style="color: aliceblue" >Phone Numbers</h6>
                         <ul class="grey-list mt-15">
-                            <li><i class="fa fa-phone"></i> +218 21 333 0843</li>
+                            <li><i class="fa fa-phone"></i> +218 91 312 4226</li>
                             {{-- <li><i class="fa fa-phone"></i> +218 92 497 4402 </li> --}}
                         </ul>
                     </div>
