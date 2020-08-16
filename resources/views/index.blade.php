@@ -375,12 +375,12 @@ div , p , h1 , h2 , h3 , h4 , h5 , h6 , b ,a {
 				<ul class="primary-list mt-20">
 					<li style="float: right;"><i class="fas fa-check-circle float-right"></i>. المصرف التجاري الوطني</li>
 					<li style="float: right;"><i class="fas fa-check-circle float-right"></i>.المصرف الصحاري</li>
-					<li style="float: right;"><i class="fas fa-check-circle float-right"></i>.مصرف الوحدة</li>
+					<li style="float: right;margin-left: 2.7em;"><i class="fas fa-check-circle float-right"></i>.مصرف الوحدة</li>
 					<li style="float: right;margin-left: 0.7em;"><i class="fas fa-check-circle float-right"></i>. مصرف الإجماع العربي </li>
 					<li style="float: right;"><i class="fas fa-check-circle float-right"></i>.المصرف الجمهورية</li>
 					<li style="float: right;"><i class="fas fa-check-circle float-right"></i>.مصرف شمال أفريقيا</li>
 					<li style="float: right; margin-left: 3.7em;"><i class="fas fa-check-circle float-right"></i>.مصرف السرايا</li>
-					<li style="float: right;"><i class="fas fa-check-circle float-right"></i>.مصرف اليقين</li>
+					<li style="float: right;margin-left: 2.7em;"><i class="fas fa-check-circle float-right"></i>.مصرف اليقين</li>
 					<li style="float: right;"><i class="fas fa-check-circle float-right"></i>.مصرف الأندلس</li>
 
 				

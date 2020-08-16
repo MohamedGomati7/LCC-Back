@@ -375,15 +375,15 @@ div , p , h1 , h2 , h3 , h4 , h5 , h6 , b ,a {
 				<p style="color: black; font-size: 18px; float: left;">We mention for example :</p>
 				<br>
 				<ul class="primary-list mt-20">
-					<li style="float: left;"><i class="fas fa-check-circle float-left"></i>The National Commercial Bank.</li>
-					<li style="float: left;"><i class="fas fa-check-circle float-left"></i>The sahara Bank.</li>
-					<li style="float: left;"><i class="fas fa-check-circle float-left"></i>WAHA Bank.</li>
+					<li style="float: left;"><i class="fas fa-check-circle float-left"></i>Alandaluss Bank.</li>
+					<li style="float: left;"><i class="fas fa-check-circle float-left"></i>The Sahara Bank.</li>
+					<li style="float: left;margin-right: 2.7em;"><i class="fas fa-check-circle float-left"></i>WAHA Bank.</li>
 					<li style="float: left;margin-right: 0.7em;"><i class="fas fa-check-circle float-left"></i>Arab Consensus Bank.</li>
 					<li style="float: left;"><i class="fas fa-check-circle float-left"></i>WAHDA Bank.</li>
 					<li style="float: left;"><i class="fas fa-check-circle float-left"></i>North African Bank.</li>
-					<li style="float: left; margin-right: 3.7em;"><i class="fas fa-check-circle float-left"></i>The Saraya Bank.</li>
-					<li style="float: left;"><i class="fas fa-check-circle float-left"></i> Yaqeen Bank.</li>
-					<li style="float: left;"><i class="fas fa-check-circle float-left"></i> Alandaluss Bank.</li>
+					<li style="float: left;"><i class="fas fa-check-circle float-left"></i>The Saraya Bank.</li>
+					<li style="float: left;margin-right: 2.7em;"><i class="fas fa-check-circle float-left"></i> Yaqeen Bank.</li>
+					<li style="float: left;"><i class="fas fa-check-circle float-left"></i> The National Commercial Bank.</li>
 
 				
 				</ul>
