@@ -1,8 +1,5 @@
 /*
-	Project Name : Lumire - Business & Consulting Multi-Purpose Template
-	Author Company : SpecThemes
-	Project Date: 27 Jan, 2019
-	Template Developer: vsafaryan50@gmail.com
+
 */
 
 /*
