@@ -666,6 +666,12 @@ Money management الألمانيـــة وتعتـبر هـــذه الشرك
 				<h6 style="text-align: center;">مصرف الأندلس</h6>
             </div>
 
+			<div class="item">
+				<img src="img/customer10.png" alt="partner-image">
+				<br>
+				<h6 style="text-align: center;">مصرف الواحة  </h6>
+            </div>
+
         </div>
     </div>
 </div>
